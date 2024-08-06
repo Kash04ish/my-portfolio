@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a03aff26.css",
+    "main.js": "/my-portfolio/static/js/main.0ddc535b.js",
+    "static/media/profile.png": "/my-portfolio/static/media/profile.89c97ec53fcbebfeba8e.png",
+    "static/media/earlyvision.png": "/my-portfolio/static/media/earlyvision.2423fbdfedc5f7cb5eac.png",
+    "static/media/webscrapping.png": "/my-portfolio/static/media/webscrapping.662cb1da8b77699d7c1c.png",
+    "static/media/gdscweb.webp": "/my-portfolio/static/media/gdscweb.a64cdb6e87d657cc3e43.webp",
+    "static/media/starstruck.jpg": "/my-portfolio/static/media/starstruck.5048b6e25ce4742065aa.jpg",
+    "static/media/ive-been-cloned.jpg": "/my-portfolio/static/media/ive-been-cloned.270720531cc396712893.jpg",
+    "static/media/accordion.png": "/my-portfolio/static/media/accordion.43f0d97aea6d31f88d13.png",
+    "static/media/gdsc.jpeg": "/my-portfolio/static/media/gdsc.89ecc980ea6de055d1f2.jpeg",
+    "static/media/contactmanagement.jpg": "/my-portfolio/static/media/contactmanagement.2f5d944e49009c497acb.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.a03aff26.css.map": "/my-portfolio/static/css/main.a03aff26.css.map",
+    "main.0ddc535b.js.map": "/my-portfolio/static/js/main.0ddc535b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03aff26.css",
+    "static/js/main.0ddc535b.js"
+  ]
+}
