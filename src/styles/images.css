@@ -1,0 +1,43 @@
+
+/*profile image*/
+.Photo{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\profile.png');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\gdsc.jpeg');
+    cursor: none;    
+}
+.project2{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\earlyvision.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\webscrapping.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\ive-been-cloned.jpg');
+    cursor: none;
+}
+.project5{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\accordion.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\contactmanagement.jpg');
+    cursor: none;
+}
+/* experience image*/
+.misc1{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\starstruck.jpg');
+    cursor: none;
+}
+.misc2{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\prodigy.jpeg');
+    cursor: none;
+}
+.misc3{
+    background-image: url('C:\Users\Kashish Verma\OneDrive\Desktop\my-portfolio\public\gdscweb.webp');
+    cursor: none;
+}
